@@ -2,6 +2,12 @@
 
 **[Charting a Digital Future](http://regflores.pythonanywhere.com/)** is a Dash app, created by Group 4 (Cruz, Flores, Pedernal) for the fulfilment of DAT101M Data Visualization. To run the app locally, unzip the files provided and follow steps below:
 
+A visualization dashboard that would help us to discover and compare trends.
+
+The rapid changes brought by technology have taken over several industries, including banking. Digital payments and digital banking are the new trend, and the Philippines is catching up. According to his speech during the GCash Digital Excellence Awards in December 2022, former BSP Governor Felipe M. Medalla mentioned promoting inclusive digital finance as the first objective under the National Strategy for Financial Inclusion 2022–2028. In 2020, the creation of the Digital Payments Transformation Roadmap 2020–2023 was also set out with one of its target goals being onboarding of at least 70.0 percent of Filipino adults to the formal financial system.
+While a number of Filipinos are already getting into the digital banking sphere, there are still many Filipinos who either, know about digital banks but are not fully aware of its growth in the country, or also Filipinos who find it harder to open traditional banking accounts but want to explore these digital options, since the BSP also wants to strengthen digital finance for the “underserved and unbanked.” By creating a visualization dashboard that highlights key statistics on the state of digital banking and finance in the Philippines, as well as a visualization on how the country fares against its Asian peers, we may be able to discover and compare trends in this field. As such, having a visualization on the growth of digital banking and finance may be able to encourage Filipinos to start opening digital bank accounts and in turn even further promote financial literacy and inclusion in the country. Banks may also be able to make use of the dashboard to help sell their digital banking services to potential clients.
+
+
 ***
 
 ## Dependencies
