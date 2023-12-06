@@ -1,6 +1,6 @@
 # Charting a Digital Future
 
-A visualization dashboard that would help us to discover and compare trends.
+A visualization dashboard that would help us to discover and compare trends on Philippine Digital payment and banking adoption with its peer countries.
 
 The rapid changes brought by technology have taken over several industries, including banking. Digital payments and digital banking are the new trend, and the Philippines is catching up. According to his speech during the GCash Digital Excellence Awards in December 2022, former BSP Governor Felipe M. Medalla mentioned promoting inclusive digital finance as the first objective under the National Strategy for Financial Inclusion 2022–2028. In 2020, the creation of the Digital Payments Transformation Roadmap 2020–2023 was also set out with one of its target goals being onboarding of at least 70.0 percent of Filipino adults to the formal financial system.
 
